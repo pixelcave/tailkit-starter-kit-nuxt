@@ -1,6 +1,9 @@
 <script setup lang="ts">
 useHead({
   title: "Nuxt with Tailkit",
+  bodyAttrs: {
+    class: "antialiased",
+  },
   link: [
     {
       rel: "preconnect",

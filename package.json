@@ -16,15 +16,15 @@
     ]
   },
   "devDependencies": {
-    "@nuxt/devtools": "^2.3.2",
+    "@nuxt/devtools": "^2.4.1",
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/typography": "^0.5.16",
-    "@tailwindcss/vite": "^4.1.0",
-    "@types/node": "^22.13.17",
-    "nuxt": "^3.16.2",
+    "@tailwindcss/vite": "^4.1.6",
+    "@types/node": "^22.15.18",
+    "nuxt": "^3.17.3",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
-    "tailwindcss": "^4.1.0"
+    "tailwindcss": "^4.1.6"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.23"
