@@ -13,6 +13,10 @@ useHead({
       rel: "stylesheet",
       href: "https://fonts.bunny.net/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap",
     },
+    {
+      rel: "stylesheet",
+      href: "https://fonts.bunny.net/css2?family=Caveat:wght@600&display=swap",
+    },
   ],
 });
 </script>
